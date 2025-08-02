@@ -1,0 +1,7 @@
+id=zygisk_lsposed
+name=LSPosed - Irena
+version=v1.9.2 (7277)
+versionCode=7277
+author=LSPosed Developers & Irena
+description=Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 15. Requires Magisk 26.0+ and Zygisk enabled.
+updateJson=https://lsposed.github.io/LSPosed/release/zygisk.json
